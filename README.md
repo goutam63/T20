@@ -36,16 +36,14 @@ Login or signup in order to create virtual app. You can either connect your gith
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
-```
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
+``` 
+├── 
+├── 
 ├── Procfile
 ├── README.md
 ├── app.py
 ├── flight_price.ipynb
-├── flight_rf.pkl
+├── pipe.pkl
 ├── requirements.txt
 ```
 
