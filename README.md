@@ -9,17 +9,6 @@ it is the project to predict the Score of the Cricket based on the current mathc
 Insert gif or link to demo
 
 https://cricket-score-predicts.herokuapp.com/
-## Deployment
-
-## To deploy this project run
-
-### git clone https://github.com/heroku/python-getting-started.git
-
-### cd python-getting-started
-
-### heroku create
-
-### git push heroku main
 
 
 ## 🚀 About Me
